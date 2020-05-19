@@ -1,0 +1,22 @@
+# Compiled files
+__pycache__/
+*.pyc
+
+# Utility caches
+/.pytest_cache/
+
+# Setuptools
+/*.egg-info/
+/*.dist-info/
+/.pipcache/
+# Environments
+/.venv/
+/venv/
+
+
+# Pycharm
+.idea/
+
+#SQLLite DB
+sku.db
+
