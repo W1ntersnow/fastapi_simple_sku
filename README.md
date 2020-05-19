@@ -12,10 +12,11 @@ uvicorn main:app
 127.0.0.1:8000/docs
 
 
-#Project structure
+# Project structure
 
 
 ::
+
 	app
 	├── api/v1           - web routes
 	│	├── item         - item routes
